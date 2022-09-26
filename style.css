@@ -1,0 +1,78 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./miladi-takvim-nedir-miladi-takvimi-kim-buldu-gelgez-700x420.jpg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+main{
+  
+    height: 50rem;
+    width: 80%;
+    margin: auto;
+    margin-top: 10rem;
+    font-weight: 900;
+}
+h1{
+    text-align: center;
+    margin-top: 9rem;
+}
+
+div{
+    margin-left: 30%;
+   margin-top: 2rem;
+ 
+}
+input{
+    width:50%;
+    height: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+button{
+    width: 15%;
+    height: 2rem;  
+    font-size: 1.5rem;
+}
+h2{
+   text-align: center;
+   margin-top: 5rem;
+   font-weight: 900;
+}
+
+ul{
+    margin-left:30%;
+    font-size: 1.5rem;
+    
+    display: flexbox;
+
+    padding: 5rem;
+    width: 50%;
+    
+    
+}
+li{
+    text-align: left;
+margin-top: 2rem;
+width: 100%;
+border-bottom:2px solid red ;
+font-size: 2rem;
+color: red;
+
+}
+
+span{
+   width: 2%;
+    cursor: pointer;
+    color:black;
+    background-color: rgb(197, 221, 41);
+    width: 1.5rem;
+    margin-right: 0%;
+    border-radius: 3px;
+   margin-left: 9rem;
+   
+}
